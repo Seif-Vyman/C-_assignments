@@ -1,0 +1,15 @@
+F:\route_course\C#\assignments\ass5\bin\Debug\net8.0\ass5.exe
+F:\route_course\C#\assignments\ass5\bin\Debug\net8.0\ass5.deps.json
+F:\route_course\C#\assignments\ass5\bin\Debug\net8.0\ass5.runtimeconfig.json
+F:\route_course\C#\assignments\ass5\bin\Debug\net8.0\ass5.dll
+F:\route_course\C#\assignments\ass5\bin\Debug\net8.0\ass5.pdb
+F:\route_course\C#\assignments\ass5\obj\Debug\net8.0\ass5.GeneratedMSBuildEditorConfig.editorconfig
+F:\route_course\C#\assignments\ass5\obj\Debug\net8.0\ass5.AssemblyInfoInputs.cache
+F:\route_course\C#\assignments\ass5\obj\Debug\net8.0\ass5.AssemblyInfo.cs
+F:\route_course\C#\assignments\ass5\obj\Debug\net8.0\ass5.csproj.CoreCompileInputs.cache
+F:\route_course\C#\assignments\ass5\obj\Debug\net8.0\ass5.sourcelink.json
+F:\route_course\C#\assignments\ass5\obj\Debug\net8.0\ass5.dll
+F:\route_course\C#\assignments\ass5\obj\Debug\net8.0\refint\ass5.dll
+F:\route_course\C#\assignments\ass5\obj\Debug\net8.0\ass5.pdb
+F:\route_course\C#\assignments\ass5\obj\Debug\net8.0\ass5.genruntimeconfig.cache
+F:\route_course\C#\assignments\ass5\obj\Debug\net8.0\ref\ass5.dll
