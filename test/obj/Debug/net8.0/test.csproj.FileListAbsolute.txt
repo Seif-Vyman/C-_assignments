@@ -1,0 +1,15 @@
+F:\route_course\C#\assignments\test\bin\Debug\net8.0\test.exe
+F:\route_course\C#\assignments\test\bin\Debug\net8.0\test.deps.json
+F:\route_course\C#\assignments\test\bin\Debug\net8.0\test.runtimeconfig.json
+F:\route_course\C#\assignments\test\bin\Debug\net8.0\test.dll
+F:\route_course\C#\assignments\test\bin\Debug\net8.0\test.pdb
+F:\route_course\C#\assignments\test\obj\Debug\net8.0\test.GeneratedMSBuildEditorConfig.editorconfig
+F:\route_course\C#\assignments\test\obj\Debug\net8.0\test.AssemblyInfoInputs.cache
+F:\route_course\C#\assignments\test\obj\Debug\net8.0\test.AssemblyInfo.cs
+F:\route_course\C#\assignments\test\obj\Debug\net8.0\test.csproj.CoreCompileInputs.cache
+F:\route_course\C#\assignments\test\obj\Debug\net8.0\test.sourcelink.json
+F:\route_course\C#\assignments\test\obj\Debug\net8.0\test.dll
+F:\route_course\C#\assignments\test\obj\Debug\net8.0\refint\test.dll
+F:\route_course\C#\assignments\test\obj\Debug\net8.0\test.pdb
+F:\route_course\C#\assignments\test\obj\Debug\net8.0\test.genruntimeconfig.cache
+F:\route_course\C#\assignments\test\obj\Debug\net8.0\ref\test.dll
