@@ -1,0 +1,14 @@
+F:\route_course\C#\LINQ\Session 01\LINQ01\Solution1\LINQ01\obj\Debug\net8.0\LINQ01.GeneratedMSBuildEditorConfig.editorconfig
+F:\route_course\C#\LINQ\Session 01\LINQ01\Solution1\LINQ01\obj\Debug\net8.0\LINQ01.AssemblyInfoInputs.cache
+F:\route_course\C#\LINQ\Session 01\LINQ01\Solution1\LINQ01\obj\Debug\net8.0\LINQ01.AssemblyInfo.cs
+F:\route_course\C#\LINQ\Session 01\LINQ01\Solution1\LINQ01\obj\Debug\net8.0\LINQ01.csproj.CoreCompileInputs.cache
+F:\route_course\C#\LINQ\Session 01\LINQ01\Solution1\LINQ01\bin\Debug\net8.0\LINQ01.exe
+F:\route_course\C#\LINQ\Session 01\LINQ01\Solution1\LINQ01\bin\Debug\net8.0\LINQ01.deps.json
+F:\route_course\C#\LINQ\Session 01\LINQ01\Solution1\LINQ01\bin\Debug\net8.0\LINQ01.runtimeconfig.json
+F:\route_course\C#\LINQ\Session 01\LINQ01\Solution1\LINQ01\bin\Debug\net8.0\LINQ01.dll
+F:\route_course\C#\LINQ\Session 01\LINQ01\Solution1\LINQ01\bin\Debug\net8.0\LINQ01.pdb
+F:\route_course\C#\LINQ\Session 01\LINQ01\Solution1\LINQ01\obj\Debug\net8.0\LINQ01.dll
+F:\route_course\C#\LINQ\Session 01\LINQ01\Solution1\LINQ01\obj\Debug\net8.0\refint\LINQ01.dll
+F:\route_course\C#\LINQ\Session 01\LINQ01\Solution1\LINQ01\obj\Debug\net8.0\LINQ01.pdb
+F:\route_course\C#\LINQ\Session 01\LINQ01\Solution1\LINQ01\obj\Debug\net8.0\LINQ01.genruntimeconfig.cache
+F:\route_course\C#\LINQ\Session 01\LINQ01\Solution1\LINQ01\obj\Debug\net8.0\ref\LINQ01.dll
