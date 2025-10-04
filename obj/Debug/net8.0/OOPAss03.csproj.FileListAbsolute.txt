@@ -1,0 +1,15 @@
+F:\route_course\C#\assignments\OOPAss03\bin\Debug\net8.0\OOPAss03.exe
+F:\route_course\C#\assignments\OOPAss03\bin\Debug\net8.0\OOPAss03.deps.json
+F:\route_course\C#\assignments\OOPAss03\bin\Debug\net8.0\OOPAss03.runtimeconfig.json
+F:\route_course\C#\assignments\OOPAss03\bin\Debug\net8.0\OOPAss03.dll
+F:\route_course\C#\assignments\OOPAss03\bin\Debug\net8.0\OOPAss03.pdb
+F:\route_course\C#\assignments\OOPAss03\obj\Debug\net8.0\OOPAss03.GeneratedMSBuildEditorConfig.editorconfig
+F:\route_course\C#\assignments\OOPAss03\obj\Debug\net8.0\OOPAss03.AssemblyInfoInputs.cache
+F:\route_course\C#\assignments\OOPAss03\obj\Debug\net8.0\OOPAss03.AssemblyInfo.cs
+F:\route_course\C#\assignments\OOPAss03\obj\Debug\net8.0\OOPAss03.csproj.CoreCompileInputs.cache
+F:\route_course\C#\assignments\OOPAss03\obj\Debug\net8.0\OOPAss03.sourcelink.json
+F:\route_course\C#\assignments\OOPAss03\obj\Debug\net8.0\OOPAss03.dll
+F:\route_course\C#\assignments\OOPAss03\obj\Debug\net8.0\refint\OOPAss03.dll
+F:\route_course\C#\assignments\OOPAss03\obj\Debug\net8.0\OOPAss03.pdb
+F:\route_course\C#\assignments\OOPAss03\obj\Debug\net8.0\OOPAss03.genruntimeconfig.cache
+F:\route_course\C#\assignments\OOPAss03\obj\Debug\net8.0\ref\OOPAss03.dll
