@@ -1,0 +1,14 @@
+F:\route_course\C#\C# Advanced\AdvancedAssignments\Assignment03\Ass03\bin\Debug\net8.0\Ass03.exe
+F:\route_course\C#\C# Advanced\AdvancedAssignments\Assignment03\Ass03\bin\Debug\net8.0\Ass03.deps.json
+F:\route_course\C#\C# Advanced\AdvancedAssignments\Assignment03\Ass03\bin\Debug\net8.0\Ass03.runtimeconfig.json
+F:\route_course\C#\C# Advanced\AdvancedAssignments\Assignment03\Ass03\bin\Debug\net8.0\Ass03.dll
+F:\route_course\C#\C# Advanced\AdvancedAssignments\Assignment03\Ass03\bin\Debug\net8.0\Ass03.pdb
+F:\route_course\C#\C# Advanced\AdvancedAssignments\Assignment03\Ass03\obj\Debug\net8.0\Ass03.GeneratedMSBuildEditorConfig.editorconfig
+F:\route_course\C#\C# Advanced\AdvancedAssignments\Assignment03\Ass03\obj\Debug\net8.0\Ass03.AssemblyInfoInputs.cache
+F:\route_course\C#\C# Advanced\AdvancedAssignments\Assignment03\Ass03\obj\Debug\net8.0\Ass03.AssemblyInfo.cs
+F:\route_course\C#\C# Advanced\AdvancedAssignments\Assignment03\Ass03\obj\Debug\net8.0\Ass03.csproj.CoreCompileInputs.cache
+F:\route_course\C#\C# Advanced\AdvancedAssignments\Assignment03\Ass03\obj\Debug\net8.0\Ass03.dll
+F:\route_course\C#\C# Advanced\AdvancedAssignments\Assignment03\Ass03\obj\Debug\net8.0\refint\Ass03.dll
+F:\route_course\C#\C# Advanced\AdvancedAssignments\Assignment03\Ass03\obj\Debug\net8.0\Ass03.pdb
+F:\route_course\C#\C# Advanced\AdvancedAssignments\Assignment03\Ass03\obj\Debug\net8.0\Ass03.genruntimeconfig.cache
+F:\route_course\C#\C# Advanced\AdvancedAssignments\Assignment03\Ass03\obj\Debug\net8.0\ref\Ass03.dll
