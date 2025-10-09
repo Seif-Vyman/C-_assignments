@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\route_course\\C#\\MVC\\New folder\\Assigments\\AssignemntMVC01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E181E2FD-9665-46F2-A849-4AA8DC29C49C}|DemoSession2\\DemoSession2.csproj|f:\\route_course\\c#\\mvc\\new folder\\assigments\\assignemntmvc01\\demosession2\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E181E2FD-9665-46F2-A849-4AA8DC29C49C}|DemoSession2\\DemoSession2.csproj|solutionrelative:demosession2\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E181E2FD-9665-46F2-A849-4AA8DC29C49C}|DemoSession2\\DemoSession2.csproj|f:\\route_course\\c#\\mvc\\new folder\\assigments\\assignemntmvc01\\demosession2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E181E2FD-9665-46F2-A849-4AA8DC29C49C}|DemoSession2\\DemoSession2.csproj|solutionrelative:demosession2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E181E2FD-9665-46F2-A849-4AA8DC29C49C}|DemoSession2\\DemoSession2.csproj|f:\\route_course\\c#\\mvc\\new folder\\assigments\\assignemntmvc01\\demosession2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E181E2FD-9665-46F2-A849-4AA8DC29C49C}|DemoSession2\\DemoSession2.csproj|solutionrelative:demosession2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E181E2FD-9665-46F2-A849-4AA8DC29C49C}|DemoSession2\\DemoSession2.csproj|f:\\route_course\\c#\\mvc\\new folder\\assigments\\assignemntmvc01\\demosession2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E181E2FD-9665-46F2-A849-4AA8DC29C49C}|DemoSession2\\DemoSession2.csproj|solutionrelative:demosession2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E181E2FD-9665-46F2-A849-4AA8DC29C49C}|DemoSession2\\MVC01.csproj|f:\\route_course\\c#\\mvc\\new folder\\assigments\\assignemntmvc01\\demosession2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E181E2FD-9665-46F2-A849-4AA8DC29C49C}|DemoSession2\\MVC01.csproj|solutionrelative:demosession2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E181E2FD-9665-46F2-A849-4AA8DC29C49C}|DemoSession2\\MVC01.csproj|f:\\route_course\\c#\\mvc\\new folder\\assigments\\assignemntmvc01\\demosession2\\mvc01.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E181E2FD-9665-46F2-A849-4AA8DC29C49C}|DemoSession2\\MVC01.csproj|solutionrelative:demosession2\\mvc01.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E181E2FD-9665-46F2-A849-4AA8DC29C49C}|DemoSession2\\MVC01.csproj|f:\\route_course\\c#\\mvc\\new folder\\assigments\\assignemntmvc01\\demosession2\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E181E2FD-9665-46F2-A849-4AA8DC29C49C}|DemoSession2\\MVC01.csproj|solutionrelative:demosession2\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E181E2FD-9665-46F2-A849-4AA8DC29C49C}|DemoSession2\\DemoSession2.csproj|f:\\route_course\\c#\\mvc\\new folder\\assigments\\assignemntmvc01\\demosession2\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E181E2FD-9665-46F2-A849-4AA8DC29C49C}|DemoSession2\\DemoSession2.csproj|solutionrelative:demosession2\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3fd5e0cc-709a-4f8c-94c3-7f0f8dff5bb2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "F:\\route_course\\C#\\MVC\\New folder\\Assigments\\AssignemntMVC01\\DemoSession2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "DemoSession2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "F:\\route_course\\C#\\MVC\\New folder\\Assigments\\AssignemntMVC01\\DemoSession2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "DemoSession2\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T15:06:31.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MVC01",
+              "DocumentMoniker": "F:\\route_course\\C#\\MVC\\New folder\\Assigments\\AssignemntMVC01\\DemoSession2\\MVC01.csproj",
+              "RelativeDocumentMoniker": "DemoSession2\\MVC01.csproj",
+              "ToolTip": "F:\\route_course\\C#\\MVC\\New folder\\Assigments\\AssignemntMVC01\\DemoSession2\\MVC01.csproj",
+              "RelativeToolTip": "DemoSession2\\MVC01.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-09T15:06:11.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\MVC\\New folder\\Assigments\\AssignemntMVC01\\DemoSession2\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "DemoSession2\\Models\\Movie.cs",
+              "ToolTip": "F:\\route_course\\C#\\MVC\\New folder\\Assigments\\AssignemntMVC01\\DemoSession2\\Models\\Movie.cs",
+              "RelativeToolTip": "DemoSession2\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T15:04:18.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\MVC\\New folder\\Assigments\\AssignemntMVC01\\DemoSession2\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "DemoSession2\\Controllers\\AccountController.cs",
+              "ToolTip": "F:\\route_course\\C#\\MVC\\New folder\\Assigments\\AssignemntMVC01\\DemoSession2\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "DemoSession2\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T14:57:42.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\MVC\\New folder\\Assigments\\AssignemntMVC01\\DemoSession2\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "DemoSession2\\Controllers\\MoviesController.cs",
+              "ToolTip": "F:\\route_course\\C#\\MVC\\New folder\\Assigments\\AssignemntMVC01\\DemoSession2\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "DemoSession2\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwDwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T14:57:59.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\MVC\\New folder\\Assigments\\AssignemntMVC01\\DemoSession2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DemoSession2\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\route_course\\C#\\MVC\\New folder\\Assigments\\AssignemntMVC01\\DemoSession2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DemoSession2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T14:57:45.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\MVC\\New folder\\Assigments\\AssignemntMVC01\\DemoSession2\\Program.cs",
+              "RelativeDocumentMoniker": "DemoSession2\\Program.cs",
+              "ToolTip": "F:\\route_course\\C#\\MVC\\New folder\\Assigments\\AssignemntMVC01\\DemoSession2\\Program.cs",
+              "RelativeToolTip": "DemoSession2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T14:57:08.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "F:\\route_course\\C#\\MVC\\New folder\\Assigments\\AssignemntMVC01\\DemoSession2\\Views\\Home\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "DemoSession2\\Views\\Home\\AboutUs.cshtml",
+              "ToolTip": "F:\\route_course\\C#\\MVC\\New folder\\Assigments\\AssignemntMVC01\\DemoSession2\\Views\\Home\\AboutUs.cshtml",
+              "RelativeToolTip": "DemoSession2\\Views\\Home\\AboutUs.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T14:57:22.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
