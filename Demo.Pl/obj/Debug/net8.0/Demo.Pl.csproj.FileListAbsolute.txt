@@ -1,0 +1,703 @@
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\appsettings.Development.json
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\appsettings.json
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\Demo.Pl.staticwebassets.runtime.json
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\Demo.Pl.staticwebassets.endpoints.json
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\Demo.Pl.exe
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\Demo.Pl.deps.json
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\Demo.Pl.runtimeconfig.json
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\Demo.Pl.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\Demo.Pl.pdb
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\Azure.Core.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\Azure.Identity.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\Humanizer.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\System.ClientModel.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\System.CodeDom.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\Demo.BLL.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\Demo.DAL.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\Demo.BLL.pdb
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\Demo.DAL.pdb
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\obj\Debug\net8.0\Demo.Pl.csproj.AssemblyReference.cache
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\obj\Debug\net8.0\Demo.Pl.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\obj\Debug\net8.0\Demo.Pl.AssemblyInfoInputs.cache
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\obj\Debug\net8.0\Demo.Pl.AssemblyInfo.cs
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\obj\Debug\net8.0\Demo.Pl.csproj.CoreCompileInputs.cache
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\obj\Debug\net8.0\Demo.Pl.MvcApplicationPartsAssemblyInfo.cache
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\obj\Debug\net8.0\Demo.Pl.RazorAssemblyInfo.cache
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\obj\Debug\net8.0\Demo.Pl.RazorAssemblyInfo.cs
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\obj\Debug\net8.0\Demo.Pl.sourcelink.json
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\obj\Debug\net8.0\scopedcss\bundle\Demo.Pl.styles.css
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\obj\Debug\net8.0\scopedcss\projectbundle\Demo.Pl.bundle.scp.css
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\obj\Debug\net8.0\staticwebassets.build.json
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\obj\Debug\net8.0\staticwebassets.development.json
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\obj\Debug\net8.0\Demo.Pl.csproj.Up2Date
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\obj\Debug\net8.0\Demo.Pl.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\obj\Debug\net8.0\refint\Demo.Pl.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\obj\Debug\net8.0\Demo.Pl.pdb
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\obj\Debug\net8.0\Demo.Pl.genruntimeconfig.cache
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\obj\Debug\net8.0\ref\Demo.Pl.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.Pl\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\appsettings.json
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Demo.Pl.staticwebassets.runtime.json
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Demo.Pl.staticwebassets.endpoints.json
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Demo.Pl.exe
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Demo.Pl.deps.json
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Demo.Pl.runtimeconfig.json
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Demo.Pl.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Demo.Pl.pdb
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Humanizer.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Demo.BLL.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Demo.DAL.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Demo.BLL.pdb
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Demo.DAL.pdb
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\obj\Debug\net8.0\Demo.Pl.csproj.AssemblyReference.cache
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\obj\Debug\net8.0\Demo.Pl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\obj\Debug\net8.0\Demo.Pl.AssemblyInfoInputs.cache
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\obj\Debug\net8.0\Demo.Pl.AssemblyInfo.cs
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\obj\Debug\net8.0\Demo.Pl.csproj.CoreCompileInputs.cache
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\obj\Debug\net8.0\Demo.Pl.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\obj\Debug\net8.0\Demo.Pl.RazorAssemblyInfo.cache
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\obj\Debug\net8.0\Demo.Pl.RazorAssemblyInfo.cs
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\obj\Debug\net8.0\Demo.Pl.sourcelink.json
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\obj\Debug\net8.0\scopedcss\bundle\Demo.Pl.styles.css
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\obj\Debug\net8.0\scopedcss\projectbundle\Demo.Pl.bundle.scp.css
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\obj\Debug\net8.0\Demo.Pl.csproj.Up2Date
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\obj\Debug\net8.0\Demo.Pl.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\obj\Debug\net8.0\refint\Demo.Pl.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\obj\Debug\net8.0\Demo.Pl.pdb
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\obj\Debug\net8.0\Demo.Pl.genruntimeconfig.cache
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\obj\Debug\net8.0\ref\Demo.Pl.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\appsettings.Development.json
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\appsettings.json
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Demo.Pl.staticwebassets.runtime.json
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Demo.Pl.staticwebassets.endpoints.json
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Demo.Pl.exe
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Demo.Pl.deps.json
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Demo.Pl.runtimeconfig.json
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Demo.Pl.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Demo.Pl.pdb
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\AutoMapper.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Azure.Core.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Azure.Identity.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Castle.Core.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Humanizer.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.Build.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\NuGet.Common.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\NuGet.Configuration.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\NuGet.Frameworks.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\NuGet.LibraryModel.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\NuGet.Packaging.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\NuGet.ProjectModel.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\NuGet.Protocol.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\NuGet.Versioning.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\System.ClientModel.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\System.CodeDom.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\System.Memory.Data.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\af\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ar\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\az\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\bg\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\cs\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\da\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\de\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\el\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\es\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\fa\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\fr\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\he\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\hr\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\hu\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\hy\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\id\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\is\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\it\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ja\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ku\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\lv\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\mt\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\nb\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\nl\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\pl\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\pt\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ro\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ru\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\sk\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\sl\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\sr\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\sv\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\tr\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\uk\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\vi\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Demo.BLL.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Demo.DAL.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Demo.BLL.pdb
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\bin\Debug\net8.0\Demo.DAL.pdb
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\obj\Debug\net8.0\Demo.Pl.csproj.AssemblyReference.cache
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\obj\Debug\net8.0\rpswa.dswa.cache.json
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\obj\Debug\net8.0\Demo.Pl.GeneratedMSBuildEditorConfig.editorconfig
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\obj\Debug\net8.0\Demo.Pl.AssemblyInfoInputs.cache
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\obj\Debug\net8.0\Demo.Pl.AssemblyInfo.cs
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\obj\Debug\net8.0\Demo.Pl.csproj.CoreCompileInputs.cache
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\obj\Debug\net8.0\Demo.Pl.MvcApplicationPartsAssemblyInfo.cache
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\obj\Debug\net8.0\Demo.Pl.RazorAssemblyInfo.cache
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\obj\Debug\net8.0\Demo.Pl.RazorAssemblyInfo.cs
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\obj\Debug\net8.0\Demo.Pl.sourcelink.json
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\obj\Debug\net8.0\rjimswa.dswa.cache.json
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\obj\Debug\net8.0\scopedcss\bundle\Demo.Pl.styles.css
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\obj\Debug\net8.0\scopedcss\projectbundle\Demo.Pl.bundle.scp.css
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\obj\Debug\net8.0\staticwebassets.build.json
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\obj\Debug\net8.0\staticwebassets.build.json.cache
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\obj\Debug\net8.0\staticwebassets.development.json
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\obj\Debug\net8.0\Demo.Pl.csproj.Up2Date
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\obj\Debug\net8.0\Demo.Pl.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\obj\Debug\net8.0\refint\Demo.Pl.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\obj\Debug\net8.0\Demo.Pl.pdb
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\obj\Debug\net8.0\Demo.Pl.genruntimeconfig.cache
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.Pl\obj\Debug\net8.0\ref\Demo.Pl.dll

@@ -1,0 +1,31 @@
+﻿using Demo.DAL.Data.Configurations;
+using Demo.DAL.Models.DepartmentModel;
+using Demo.DAL.Models.EmployeeModel;
+using Demo.DAL.Models.IdentityModels;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Reflection;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Demo.DAL.Data.Contexts
+{
+    public class ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : IdentityDbContext<ApplicationUser>(options)
+    {
+        private Assembly Assembly;
+
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.ApplyConfiguration<Department>(new DepartmentCnfiguration());
+            modelBuilder.ApplyConfiguration(new EmployeeConfiguration());
+            base.OnModelCreating(modelBuilder);
+        }
+
+        public DbSet<Department> Departments { get; set; }
+        public DbSet<Employee> Employees { get; set; }
+
+    }
+}

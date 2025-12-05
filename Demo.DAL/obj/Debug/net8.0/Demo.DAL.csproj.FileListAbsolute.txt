@@ -1,0 +1,39 @@
+D:\Route\MVC\Demo\DemoSolution\Demo.DAL\bin\Debug\net8.0\Demo.DAL.deps.json
+D:\Route\MVC\Demo\DemoSolution\Demo.DAL\bin\Debug\net8.0\Demo.DAL.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.DAL\bin\Debug\net8.0\Demo.DAL.pdb
+D:\Route\MVC\Demo\DemoSolution\Demo.DAL\obj\Debug\net8.0\Demo.DAL.csproj.AssemblyReference.cache
+D:\Route\MVC\Demo\DemoSolution\Demo.DAL\obj\Debug\net8.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\MVC\Demo\DemoSolution\Demo.DAL\obj\Debug\net8.0\Demo.DAL.AssemblyInfoInputs.cache
+D:\Route\MVC\Demo\DemoSolution\Demo.DAL\obj\Debug\net8.0\Demo.DAL.AssemblyInfo.cs
+D:\Route\MVC\Demo\DemoSolution\Demo.DAL\obj\Debug\net8.0\Demo.DAL.csproj.CoreCompileInputs.cache
+D:\Route\MVC\Demo\DemoSolution\Demo.DAL\obj\Debug\net8.0\Demo.DAL.sourcelink.json
+D:\Route\MVC\Demo\DemoSolution\Demo.DAL\obj\Debug\net8.0\Demo.DAL.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.DAL\obj\Debug\net8.0\refint\Demo.DAL.dll
+D:\Route\MVC\Demo\DemoSolution\Demo.DAL\obj\Debug\net8.0\Demo.DAL.pdb
+D:\Route\MVC\Demo\DemoSolution\Demo.DAL\obj\Debug\net8.0\ref\Demo.DAL.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.DAL\bin\Debug\net8.0\Demo.DAL.deps.json
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.DAL\bin\Debug\net8.0\Demo.DAL.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.DAL\bin\Debug\net8.0\Demo.DAL.pdb
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.DAL\obj\Debug\net8.0\Demo.DAL.csproj.AssemblyReference.cache
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.DAL\obj\Debug\net8.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.DAL\obj\Debug\net8.0\Demo.DAL.AssemblyInfoInputs.cache
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.DAL\obj\Debug\net8.0\Demo.DAL.AssemblyInfo.cs
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.DAL\obj\Debug\net8.0\Demo.DAL.csproj.CoreCompileInputs.cache
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.DAL\obj\Debug\net8.0\Demo.DAL.sourcelink.json
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.DAL\obj\Debug\net8.0\Demo.DAL.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.DAL\obj\Debug\net8.0\refint\Demo.DAL.dll
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.DAL\obj\Debug\net8.0\Demo.DAL.pdb
+C:\Users\LOQ\Desktop\Amr\Web\Back-End\MVC\Route-Assignment\Demo.DAL\obj\Debug\net8.0\ref\Demo.DAL.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.DAL\bin\Debug\net8.0\Demo.DAL.deps.json
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.DAL\bin\Debug\net8.0\Demo.DAL.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.DAL\bin\Debug\net8.0\Demo.DAL.pdb
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.DAL\obj\Debug\net8.0\Demo.DAL.csproj.AssemblyReference.cache
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.DAL\obj\Debug\net8.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.DAL\obj\Debug\net8.0\Demo.DAL.AssemblyInfoInputs.cache
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.DAL\obj\Debug\net8.0\Demo.DAL.AssemblyInfo.cs
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.DAL\obj\Debug\net8.0\Demo.DAL.csproj.CoreCompileInputs.cache
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.DAL\obj\Debug\net8.0\Demo.DAL.sourcelink.json
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.DAL\obj\Debug\net8.0\Demo.DAL.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.DAL\obj\Debug\net8.0\refint\Demo.DAL.dll
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.DAL\obj\Debug\net8.0\Demo.DAL.pdb
+F:\route_course\C#\5- MVC\Department\Assigments\AssignmentFullProject\Route-Assignment\Demo.DAL\obj\Debug\net8.0\ref\Demo.DAL.dll

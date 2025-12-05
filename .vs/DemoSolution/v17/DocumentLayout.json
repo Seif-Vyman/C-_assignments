@@ -1,0 +1,494 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|f:\\route_course\\c#\\5- mvc\\department\\assigments\\assignmentfullproject\\route-assignment\\demo.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|f:\\route_course\\c#\\5- mvc\\department\\assigments\\assignmentfullproject\\route-assignment\\demo.pl\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CAD6E1-40FB-4567-A778-6276DA749C48}|Demo.DAL\\Demo.DAL.csproj|f:\\route_course\\c#\\5- mvc\\department\\assigments\\assignmentfullproject\\route-assignment\\demo.dal\\models\\employeemodel\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CAD6E1-40FB-4567-A778-6276DA749C48}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\models\\employeemodel\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CAD6E1-40FB-4567-A778-6276DA749C48}|Demo.DAL\\Demo.DAL.csproj|f:\\route_course\\c#\\5- mvc\\department\\assigments\\assignmentfullproject\\route-assignment\\demo.dal\\models\\employeemodel\\employeetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CAD6E1-40FB-4567-A778-6276DA749C48}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\models\\employeemodel\\employeetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96C76FA-DC57-48C8-8DC6-A4EB96A5437B}|Demo.BLL\\Demo.BLL.csproj|f:\\route_course\\c#\\5- mvc\\department\\assigments\\assignmentfullproject\\route-assignment\\demo.bll\\dtos\\employeedtos\\createemployeedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96C76FA-DC57-48C8-8DC6-A4EB96A5437B}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\dtos\\employeedtos\\createemployeedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|f:\\route_course\\c#\\5- mvc\\department\\assigments\\assignmentfullproject\\route-assignment\\demo.pl\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CAD6E1-40FB-4567-A778-6276DA749C48}|Demo.DAL\\Demo.DAL.csproj|f:\\route_course\\c#\\5- mvc\\department\\assigments\\assignmentfullproject\\route-assignment\\demo.dal\\repositories\\classes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CAD6E1-40FB-4567-A778-6276DA749C48}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\repositories\\classes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CAD6E1-40FB-4567-A778-6276DA749C48}|Demo.DAL\\Demo.DAL.csproj|f:\\route_course\\c#\\5- mvc\\department\\assigments\\assignmentfullproject\\route-assignment\\demo.dal\\repositories\\classes\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CAD6E1-40FB-4567-A778-6276DA749C48}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\repositories\\classes\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96C76FA-DC57-48C8-8DC6-A4EB96A5437B}|Demo.BLL\\Demo.BLL.csproj|f:\\route_course\\c#\\5- mvc\\department\\assigments\\assignmentfullproject\\route-assignment\\demo.bll\\services\\classes\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96C76FA-DC57-48C8-8DC6-A4EB96A5437B}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\services\\classes\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CAD6E1-40FB-4567-A778-6276DA749C48}|Demo.DAL\\Demo.DAL.csproj|f:\\route_course\\c#\\5- mvc\\department\\assigments\\assignmentfullproject\\route-assignment\\demo.dal\\migrations\\20251205134041_updatingdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CAD6E1-40FB-4567-A778-6276DA749C48}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\migrations\\20251205134041_updatingdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|f:\\route_course\\c#\\5- mvc\\department\\assigments\\assignmentfullproject\\route-assignment\\demo.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CAD6E1-40FB-4567-A778-6276DA749C48}|Demo.DAL\\Demo.DAL.csproj|f:\\route_course\\c#\\5- mvc\\department\\assigments\\assignmentfullproject\\route-assignment\\demo.dal\\data\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CAD6E1-40FB-4567-A778-6276DA749C48}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\data\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CAD6E1-40FB-4567-A778-6276DA749C48}|Demo.DAL\\Demo.DAL.csproj|f:\\route_course\\c#\\5- mvc\\department\\assigments\\assignmentfullproject\\route-assignment\\demo.dal\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CAD6E1-40FB-4567-A778-6276DA749C48}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CAD6E1-40FB-4567-A778-6276DA749C48}|Demo.DAL\\Demo.DAL.csproj|f:\\route_course\\c#\\5- mvc\\department\\assigments\\assignmentfullproject\\route-assignment\\demo.dal\\data\\configurations\\baseentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CAD6E1-40FB-4567-A778-6276DA749C48}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\data\\configurations\\baseentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96C76FA-DC57-48C8-8DC6-A4EB96A5437B}|Demo.BLL\\Demo.BLL.csproj|f:\\route_course\\c#\\5- mvc\\department\\assigments\\assignmentfullproject\\route-assignment\\demo.bll\\dtos\\employeedtos\\employeedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96C76FA-DC57-48C8-8DC6-A4EB96A5437B}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\dtos\\employeedtos\\employeedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96C76FA-DC57-48C8-8DC6-A4EB96A5437B}|Demo.BLL\\Demo.BLL.csproj|f:\\route_course\\c#\\5- mvc\\department\\assigments\\assignmentfullproject\\route-assignment\\demo.bll\\dtos\\employeedtos\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96C76FA-DC57-48C8-8DC6-A4EB96A5437B}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\dtos\\employeedtos\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|f:\\route_course\\c#\\5- mvc\\department\\assigments\\assignmentfullproject\\route-assignment\\demo.pl\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|f:\\route_course\\c#\\5- mvc\\department\\assigments\\assignmentfullproject\\route-assignment\\demo.pl\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|f:\\route_course\\c#\\5- mvc\\department\\assigments\\assignmentfullproject\\route-assignment\\demo.pl\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|f:\\route_course\\c#\\5- mvc\\department\\assigments\\assignmentfullproject\\route-assignment\\demo.pl\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|f:\\route_course\\c#\\5- mvc\\department\\assigments\\assignmentfullproject\\route-assignment\\demo.pl\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96C76FA-DC57-48C8-8DC6-A4EB96A5437B}|Demo.BLL\\Demo.BLL.csproj|f:\\route_course\\c#\\5- mvc\\department\\assigments\\assignmentfullproject\\route-assignment\\demo.bll\\dtos\\employeedtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96C76FA-DC57-48C8-8DC6-A4EB96A5437B}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\dtos\\employeedtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|f:\\route_course\\c#\\5- mvc\\department\\assigments\\assignmentfullproject\\route-assignment\\demo.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84F8E8C0-E3D7-4F07-AAA0-115753E996F7}|Demo.Pl\\Demo.Pl.csproj|solutionrelative:demo.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96C76FA-DC57-48C8-8DC6-A4EB96A5437B}|Demo.BLL\\Demo.BLL.csproj|f:\\route_course\\c#\\5- mvc\\department\\assigments\\assignmentfullproject\\route-assignment\\demo.bll\\mappingprofiles\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96C76FA-DC57-48C8-8DC6-A4EB96A5437B}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\mappingprofiles\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96C76FA-DC57-48C8-8DC6-A4EB96A5437B}|Demo.BLL\\Demo.BLL.csproj|f:\\route_course\\c#\\5- mvc\\department\\assigments\\assignmentfullproject\\route-assignment\\demo.bll\\demo.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C96C76FA-DC57-48C8-8DC6-A4EB96A5437B}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\demo.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3fd5e0cc-709a-4f8c-94c3-7f0f8dff5bb2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.DAL\\Models\\EmployeeModel\\Employee.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Models\\EmployeeModel\\Employee.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.DAL\\Models\\EmployeeModel\\Employee.cs",
+              "RelativeToolTip": "Demo.DAL\\Models\\EmployeeModel\\Employee.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T13:58:18.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeType.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.DAL\\Models\\EmployeeModel\\EmployeeType.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Models\\EmployeeModel\\EmployeeType.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.DAL\\Models\\EmployeeModel\\EmployeeType.cs",
+              "RelativeToolTip": "Demo.DAL\\Models\\EmployeeModel\\EmployeeType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T13:58:16.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.DAL\\Repositories\\Classes\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Repositories\\Classes\\EmployeeRepository.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.DAL\\Repositories\\Classes\\EmployeeRepository.cs",
+              "RelativeToolTip": "Demo.DAL\\Repositories\\Classes\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T13:51:27.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20251205134041_UpdatingDatabase.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.DAL\\Migrations\\20251205134041_UpdatingDatabase.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Migrations\\20251205134041_UpdatingDatabase.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.DAL\\Migrations\\20251205134041_UpdatingDatabase.cs",
+              "RelativeToolTip": "Demo.DAL\\Migrations\\20251205134041_UpdatingDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T13:40:42.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateEmployeeDtos.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.BLL\\DTOs\\EmployeeDTOs\\CreateEmployeeDtos.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\DTOs\\EmployeeDTOs\\CreateEmployeeDtos.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.BLL\\DTOs\\EmployeeDTOs\\CreateEmployeeDtos.cs",
+              "RelativeToolTip": "Demo.BLL\\DTOs\\EmployeeDTOs\\CreateEmployeeDtos.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA9wBcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T15:50:41.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.Pl\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "Demo.Pl\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.Pl\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "Demo.Pl\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T15:37:54.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.Pl\\Program.cs",
+              "RelativeDocumentMoniker": "Demo.Pl\\Program.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.Pl\\Program.cs",
+              "RelativeToolTip": "Demo.Pl\\Program.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T11:58:22.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.DAL\\Data\\Contexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Data\\Contexts\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.DAL\\Data\\Contexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Demo.DAL\\Data\\Contexts\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T13:37:23.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.DAL\\Repositories\\Classes\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Repositories\\Classes\\GenericRepository.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.DAL\\Repositories\\Classes\\GenericRepository.cs",
+              "RelativeToolTip": "Demo.DAL\\Repositories\\Classes\\GenericRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwD4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T16:13:37.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.Pl\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Demo.Pl\\Controllers\\EmployeesController.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.Pl\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Demo.Pl\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T13:15:00.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseEntityConfiguration.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.DAL\\Data\\Configurations\\BaseEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Data\\Configurations\\BaseEntityConfiguration.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.DAL\\Data\\Configurations\\BaseEntityConfiguration.cs",
+              "RelativeToolTip": "Demo.DAL\\Data\\Configurations\\BaseEntityConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T13:38:06.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.DAL\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\GlobalUsings.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.DAL\\GlobalUsings.cs",
+              "RelativeToolTip": "Demo.DAL\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T13:38:41.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.BLL\\Services\\Classes\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\Services\\Classes\\EmployeeService.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.BLL\\Services\\Classes\\EmployeeService.cs",
+              "RelativeToolTip": "Demo.BLL\\Services\\Classes\\EmployeeService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T11:51:09.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.Pl\\appsettings.json",
+              "RelativeDocumentMoniker": "Demo.Pl\\appsettings.json",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.Pl\\appsettings.json",
+              "RelativeToolTip": "Demo.Pl\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-05T13:39:11.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateEmployeeDto.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.BLL\\DTOs\\EmployeeDTOs\\UpdateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\DTOs\\EmployeeDTOs\\UpdateEmployeeDto.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.BLL\\DTOs\\EmployeeDTOs\\UpdateEmployeeDto.cs",
+              "RelativeToolTip": "Demo.BLL\\DTOs\\EmployeeDTOs\\UpdateEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T15:49:53.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeDetailsDto.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.BLL\\DTOs\\EmployeeDTOs\\EmployeeDetailsDto.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\DTOs\\EmployeeDTOs\\EmployeeDetailsDto.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.BLL\\DTOs\\EmployeeDTOs\\EmployeeDetailsDto.cs",
+              "RelativeToolTip": "Demo.BLL\\DTOs\\EmployeeDTOs\\EmployeeDetailsDto.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAywAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T15:41:57.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.Pl\\Views\\Employees\\Details.cshtml",
+              "RelativeDocumentMoniker": "Demo.Pl\\Views\\Employees\\Details.cshtml",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.Pl\\Views\\Employees\\Details.cshtml",
+              "RelativeToolTip": "Demo.Pl\\Views\\Employees\\Details.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T15:40:02.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.Pl\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "Demo.Pl\\Views\\Employees\\Create.cshtml",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.Pl\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "Demo.Pl\\Views\\Employees\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-16T13:52:44.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.Pl\\Views\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Demo.Pl\\Views\\Employees\\Edit.cshtml",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.Pl\\Views\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "Demo.Pl\\Views\\Employees\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T15:58:21.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.Pl\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Demo.Pl\\_ViewImports.cshtml",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.Pl\\_ViewImports.cshtml",
+              "RelativeToolTip": "Demo.Pl\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T16:01:09.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.Pl\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Demo.Pl\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.Pl\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Demo.Pl\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-16T13:31:29.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.Pl\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo.Pl\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.Pl\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "Demo.Pl\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-16T13:18:58.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.BLL\\DTOs\\EmployeeDTOs\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\DTOs\\EmployeeDTOs\\EmployeeDto.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.BLL\\DTOs\\EmployeeDTOs\\EmployeeDto.cs",
+              "RelativeToolTip": "Demo.BLL\\DTOs\\EmployeeDTOs\\EmployeeDto.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T12:58:52.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.BLL\\MappingProfiles\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\MappingProfiles\\MappingProfiles.cs",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.BLL\\MappingProfiles\\MappingProfiles.cs",
+              "RelativeToolTip": "Demo.BLL\\MappingProfiles\\MappingProfiles.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T11:55:49.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Demo.BLL.csproj",
+              "DocumentMoniker": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.BLL\\Demo.BLL.csproj",
+              "RelativeDocumentMoniker": "Demo.BLL\\Demo.BLL.csproj",
+              "ToolTip": "F:\\route_course\\C#\\5- MVC\\Department\\Assigments\\AssignmentFullProject\\Route-Assignment\\Demo.BLL\\Demo.BLL.csproj",
+              "RelativeToolTip": "Demo.BLL\\Demo.BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-16T11:46:50.532Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
